@@ -1,5 +1,5 @@
-# react-redux-basic
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+# react-redux-photogram
+A Photogram React + Redux implementation. Photogrid, like and adding comment functions.
 
 ## Running
 

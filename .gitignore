@@ -1,0 +1,9 @@
+# File system junk files
+Desktop.ini
+Thumbs.db
+.DS_Store
+._*
+
+
+# npm package
+node_modules/*
